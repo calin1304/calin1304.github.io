@@ -21,11 +21,11 @@
 title: Călin Nicolau
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software engineer from Bucharest, Romania.
+  Haskell, Rust, Elixir, Racket, what's next?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  calin1304
+github_username: calin1304
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0

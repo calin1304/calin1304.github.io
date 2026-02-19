@@ -6,17 +6,18 @@ layout: default
 ---
 
 # Călin Nicolau
-## Software Engineer
 
-Sed justo. Curabitur consectetuer arcu. Etiam placerat est eget odio. Nulla
-facilisi. Nulla facilisi. Mauris non neque. Suspendisse et diam. Sed vestibulum
-malesuada ipsum. Cras id magna. Nunc pharetra velit vitae eros. Vivamus ac
-risus. Mauris ac pede laoreet felis pharetra ultricies. Proin et neque. Aliquam
-dignissim placerat felis. Mauris porta ante sagittis purus.
+## About me
 
-Pellentesque quis leo eget ante tempor cursus. Pellentesque sagittis, diam ut
-dictum accumsan, magna est viverra erat, vitae imperdiet neque mauris aliquam
-nisl. Suspendisse blandit quam quis felis. Praesent turpis nunc, vehicula in,
-bibendum vitae, blandit ac, turpis. Duis rhoncus. Vestibulum metus. Morbi
-consectetuer felis id tortor. Etiam.
+I write software. 
 
+I'm interested in functional programming, logics, type systems and programming
+languages.
+
+## Some of my things
+
+- Learning Rust by writing a [pastebin service](https://github.com/calin1304/pistachio-can)
+- My graduation project: A [BitTorrent peer built with Haskell](https://github.com/calin1304/bind-torrent). Still missing some functionality, but managed to download something.
+- My first big project: writing an [x86 kernel](https://github.com/calin1304/NaOS). Didn't get too far, but learned a lot.
+
+Beside all this, played with logics, theorem provers (Lean, Coq) and category theory. Perhaps one day I'll make more stuff public.
